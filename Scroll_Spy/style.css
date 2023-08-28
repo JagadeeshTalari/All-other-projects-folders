@@ -1,0 +1,27 @@
+ul li {
+  height: 30px;
+  list-style-type: none;
+  border: 2px solid #000;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.item {
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sideBar {
+  height: fit-content;
+  position: sticky;
+  top: 0;
+}
+.item:hover,
+.hey {
+  background-color: blueviolet;
+  color: #fff;
+}
+
+.mainContent {
+  padding: 0px 50px;
+}
